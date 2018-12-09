@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kent Keeper</string>
+    <string name="subtitle_first_team">First Team</string>
+    <string name="subtitle_second_team">Second Team</string>
+    <string name="subtitle_total_wins">TOTAL WINS</string>
+    <string name="subtitle_total_losses">TOTAL LOSSES</string>
+    <string name="default_zero">0</string>
+    <string name="button_successful_kent">Successful Kent</string>
+    <string name="button_successful_stop">Successful Stop</string>
+    <string name="button_foul">Foul</string>
+    <string name="subtitle_stats">Stats</string>
+    <string name="button_new_game">New Game</string>
+</resources>
