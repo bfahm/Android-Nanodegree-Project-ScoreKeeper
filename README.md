@@ -5,7 +5,8 @@
 
 Kent is a famous card game, consisting of four players grouped into two teams.  
 
-More on the game: https://www.wikihow.com/Play-Kent
+More on the game: https://www.wikihow.com/Play-Kent  
+
 Each team win by two ways:
 
  - Shouting 'Kent' before the other team: 2 points
